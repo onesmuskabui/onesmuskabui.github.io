@@ -6,8 +6,8 @@ Statistical Analyst
 | [linkedin.com/in/onesmuskabui](https://www.linkedin.com/in/onesmuskabui/)
 
 ## About me
-Results-driven recent graduate with expertise in statistical analysis, data management, and customer service. Proficient in R, SQL, and STATA, with a proven track record of applying data analytics to drive business decisions and enhance customer experiences. On my free time, I enjoy [cycling](https://www.strava.com/athletes/121419863).
-
+Results-driven recent graduate with expertise in statistical analysis, data management, and customer service. Proficient in R, SQL, and STATA, with a proven track record of applying data analytics to drive business decisions and enhance customer experiences. On my free time, I enjoy [cycling](https://www.strava.com/athletes/121419863) and [learning German] (
+Check out my progress learning German on Duolingo! https://www.duolingo.com/profile/onesmusKab1?via=share_profile_link).
 ## Work Experience
 
 ### Customer Service Data Analyst, Stan Interior Designers
