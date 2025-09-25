@@ -39,6 +39,7 @@ Results-driven recent graduate with expertise in statistical analysis,data visua
 
 Built regression models in R (UCI dataset) to predict concrete strength ($R^2 = 0.63$), identifying cement, curing age, and additives as key factors.
 
+[Github link](https://github.com/onesmuskabui/Concrete-Strength-Modelling)
 
 ## Education
 **Bachelor of Science in Applied Statistics with Computing**
