@@ -35,7 +35,13 @@ Results-driven recent graduate with expertise in statistical analysis,data visua
 
 ### Projects
 
-#### <b>Concrete Strength Modelling</b>
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
+
+#### ***Concrete Strength Modelling***
 
 Built regression models in R (UCI dataset) to predict concrete strength ($R^2 = 0.63$), identifying cement, curing age, and additives as key factors.
 
