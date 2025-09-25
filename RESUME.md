@@ -8,6 +8,7 @@ Statistical Analyst
 ## About me
 Results-driven recent graduate with expertise in statistical analysis,data visualization with interactive dashboards, data management, and customer service. Proficient in R, SQL, Tableau, and STATA, with a proven track record of applying data analytics to drive business decisions and enhance customer experiences. On my free time, I enjoy [cycling](https://www.strava.com/athletes/121419863) and [learning German](https://www.duolingo.com/profile/onesmusKab1?via=share_profile_link).
 
+
 ### Work Experience
 
 ### Customer Service Data Analyst, Stan Interior Designers
@@ -30,6 +31,14 @@ Results-driven recent graduate with expertise in statistical analysis,data visua
 - Managed data entry for factory operations using ChaiPro (SQL-based) and observed SAP ERP transition
 - Analyzed production efficiency and quality trends, presenting insights to supervisors
 - Collaborated across departments to ensure accurate and timely data collection
+
+
+### Projects
+
+#### Concrete Strength Modelling
+
+Built regression models in R (UCI dataset) to predict concrete strength ($R^2 = 0.63$), identifying cement, curing age, and additives as key factors.
+
 
 ## Education
 **Bachelor of Science in Applied Statistics with Computing**
