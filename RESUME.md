@@ -43,7 +43,7 @@ Built regression models in R (UCI dataset) to predict concrete strength ($R^2 = 
 
 ## Education
 **Bachelor of Science in Applied Statistics with Computing**
-Moi University, Graduating Class of 2024
+Moi University, Graduating Class of 2025
 
 **STATA Analytical Program**
 Moi University, Completed 2019 (Distinction)
