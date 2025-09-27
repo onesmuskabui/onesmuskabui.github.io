@@ -50,7 +50,7 @@ Moi University, Completed 2019 (Distinction)
 
 ## Skills
 - Statistical Software: R, STATA, SQL
-- Data Analysis: Advanced statistical methods, predictive modeling, data visualization
+- Data Analysis: Advanced statistical methods, predictive modeling, data visualization, research
 - Microsoft Office Suite: Excel (advanced), Word, PowerPoint
 - Strong communication, problem-solving, and critical thinking skills
 
