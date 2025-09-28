@@ -43,7 +43,7 @@ Built regression models in R (UCI dataset) to predict concrete strength ($R^2 = 
 
 #### ***Obesity Level Prediction***
 
-Developed and evaluated four machine learning models (Logistic Regression, Decision Trees, Random Forest, and KNN) to predict obesity levels from lifestyle and demographic data, achieving up to ($93.8% accuracy$).
+Developed and evaluated four machine learning models (Logistic Regression, Decision Trees, Random Forest, and KNN) to predict obesity levels from lifestyle and demographic data, achieving up to $94.5%$ accuracy.
 
 [Github link](https://github.com/onesmuskabui/Obesity-Level-Prediction)
 
