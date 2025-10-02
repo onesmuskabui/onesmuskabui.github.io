@@ -67,4 +67,4 @@ Moi University, Completed 2019 (Distinction)
 <!--## References
 Keziah Mwangi - kmwangi@ndima.ktdateas.com (Industrial Training Supervisor)
 
-Jennifer Njau - Sales Executive - [+254 740 405 959](tel:+254740405959) --!>
+Jennifer Njau - Sales Executive - [+254 740 405 959](tel:+254740405959) -->
