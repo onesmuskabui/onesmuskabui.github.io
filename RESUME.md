@@ -18,11 +18,11 @@ Results-driven recent graduate with expertise in statistical analysis,data visua
 - Analyze customer interaction data to identify trends and implement improvements
 - Collaborate with sales teams to enhance customer satisfaction and revenue
 
-### Construction Worker, China Wu Yi Road Project
+<!--### Construction Worker, China Wu Yi Road Project
 *January 2024 - May 2024*
 
 - Contributed to road construction projects, developing strong work ethic and time management skills
-- Collaborated effectively with diverse teams to meet project deadlines and quality standards
+- Collaborated effectively with diverse teams to meet project deadlines and quality standards-->
 
 ### Assistant Analyst, Ndima Tea Factory
 *Multiple internships: Oct 2020 - Dec 2020, Oct 2022 - Dec 2022, Mar 2023 - May 2023*
