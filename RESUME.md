@@ -64,7 +64,9 @@ Moi University, Completed 2019 (Distinction)
 ## Certifications
 - STATA Analytical Program (Distinction)
 
-<!--## References
+## References
 Keziah Mwangi - kmwangi@ndima.ktdateas.com (Industrial Training Supervisor)
 
-Jennifer Njau - Sales Executive - [+254 740 405 959](tel:+254740405959) -->
+Jennifer Njau - Sales Executive - [+254 740 405 959](tel:+254740405959) 
+
+Charles Njogu - Data Scientist - [+254707115007](tel:+254707115007) 
