@@ -12,7 +12,7 @@ Results-driven recent graduate with expertise in statistical analysis,data visua
 ### Work Experience
 
 ### Customer Service Data Analyst, Stan Interior Designers
-*September 2024 - September 2025*
+*September 2024 - Present*
 
 - Apply data-driven insights to optimize customer service strategies and boost sales performance
 - Analyze customer interaction data to identify trends and implement improvements
