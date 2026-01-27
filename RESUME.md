@@ -1,15 +1,22 @@
 # Onesmus Wachira Kabui
-Statistical Analyst 
+Data Analyst 
 | [wachirakabui1@gmail.com](mailto:wachirakabui1@gmail.com) 
 | [+254 714 049 485](tel:+254714049485) 
 | [onesmus.com](https://onesmus.com/) 
 | [linkedin.com/in/onesmuskabui](https://www.linkedin.com/in/onesmuskabui/)
 
 ## About me
-Results-driven recent graduate with expertise in statistical analysis,data visualization with interactive dashboards, data management, and customer service. Proficient in R, SQL, Tableau, and STATA, with a proven track record of applying data analytics to drive business decisions and enhance customer experiences. On my free time, I enjoy [cycling](https://www.strava.com/athletes/121419863) and [learning German](https://www.duolingo.com/profile/onesmusKab1?via=share_profile_link).
+Data and research-oriented Data Analyst with a strong foundation in statistical analysis, research design, and data visualization. Experienced in working with quantitative and qualitative data, transforming raw data into clear, actionable insights to support informed decision-making. Proficient in R, Excel, and SQL  with a disciplined, detail-oriented approach to analysis and insight communication. On my free time, I enjoy [cycling](https://www.strava.com/athletes/121419863) and [learning German](https://www.duolingo.com/profile/onesmusKab1?via=share_profile_link).
 
 
 ### Work Experience
+
+### Data Engineer, Kasi Insight
+*Oct 2025 - Present
+
+- Data analysis and data visualization
+- Transforming data into actionable insights that support informed decision-making
+- Research design for quantitative and qualitative data collection methods
 
 ### Customer Service Data Analyst, Stan Interior Designers
 *September 2024 - September 2025*
@@ -18,11 +25,11 @@ Results-driven recent graduate with expertise in statistical analysis,data visua
 - Analyze customer interaction data to identify trends and implement improvements
 - Collaborate with sales teams to enhance customer satisfaction and revenue
 
-### Construction Worker, China Wu Yi Road Project
+<!--### Construction Worker, China Wu Yi Road Project
 *January 2024 - May 2024*
 
 - Contributed to road construction projects, developing strong work ethic and time management skills
-- Collaborated effectively with diverse teams to meet project deadlines and quality standards
+- Collaborated effectively with diverse teams to meet project deadlines and quality standards-->
 
 ### Assistant Analyst, Ndima Tea Factory
 *Multiple internships: Oct 2020 - Dec 2020, Oct 2022 - Dec 2022, Mar 2023 - May 2023*
@@ -50,13 +57,13 @@ Developed and evaluated four machine learning models (Logistic Regression, Decis
 
 ## Education
 **Bachelor of Science in Applied Statistics with Computing**
-Moi University, Graduating Class of 2025
+Moi University 2019-2023
 
 **STATA Analytical Program**
 Moi University, Completed 2019 (Distinction)
 
 ## Skills
-- Statistical Software: R, STATA, SQL
+- Statistical Software: R, Python, SQL
 - Data Analysis: Advanced statistical methods, predictive modeling, data visualization, research
 - Microsoft Office Suite: Excel (advanced), Word, PowerPoint
 - Strong communication, problem-solving, and critical thinking skills
