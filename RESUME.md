@@ -25,11 +25,11 @@ Data and research-oriented Data Analyst with a strong foundation in statistical 
 - Analyze customer interaction data to identify trends and implement improvements
 - Collaborate with sales teams to enhance customer satisfaction and revenue
 
-<!--### Construction Worker, China Wu Yi Road Project
+### Construction Worker, China Wu Yi Road Project
 *January 2024 - May 2024*
 
 - Contributed to road construction projects, developing strong work ethic and time management skills
-- Collaborated effectively with diverse teams to meet project deadlines and quality standards-->
+- Collaborated effectively with diverse teams to meet project deadlines and quality standards
 
 ### Assistant Analyst, Ndima Tea Factory
 *Multiple internships: Oct 2020 - Dec 2020, Oct 2022 - Dec 2022, Mar 2023 - May 2023*
@@ -57,7 +57,7 @@ Developed and evaluated four machine learning models (Logistic Regression, Decis
 
 ## Education
 **Bachelor of Science in Applied Statistics with Computing**
-Moi University 2019-2023
+Moi University 2025
 
 **STATA Analytical Program**
 Moi University, Completed 2019 (Distinction)
