@@ -64,7 +64,8 @@ Developed and evaluated four machine learning models (Logistic Regression, Decis
 
 ## Education
 **Bachelor of Science (Hons) Applied Statistics with Computing**
-Moi University 2025
+
+Moi University - 2025
 
 
 <!--**STATA Analytical Program**
