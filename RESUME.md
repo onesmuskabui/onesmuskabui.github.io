@@ -35,7 +35,7 @@ Data Analyst with nearly 18+ months experience in data analysis, data visualizat
 ### Assistant Analyst, Ndima Tea Factory
 *Multiple internships: Oct 2020 - Dec 2020, Oct 2022 - Dec 2022, Mar 2023 - May 2023*
 
-- Conducted field data collection on tea production, ensuring quality assurance standards
+<!--- Conducted field data collection on tea production, ensuring quality assurance standards-->
 - Managed data entry for factory operations using ChaiPro (SQL-based)
 - Supported a critical transition to SAP ERP, ensuring 100% data integrity during the migration of production records
 - Analyzed production efficiency and quality trends, presenting insights to supervisors to inform decisions
@@ -45,7 +45,7 @@ Data Analyst with nearly 18+ months experience in data analysis, data visualizat
 - Data Analysis: data cleaning, Advanced statistical methods, data visualization, predictive modeling, reporting  
 - Statistical Software: R, Python, SQL
 - Microsoft Office Suite: Excel (advanced), Word, PowerPoint
-- Strong communication, problem-solving, and critical thinking skills
+<!--- Strong communication, problem-solving, and critical thinking skills-->
   
 ### Projects
 
