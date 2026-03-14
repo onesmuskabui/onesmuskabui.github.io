@@ -6,7 +6,7 @@ Data Analyst
 | [linkedin.com/in/onesmuskabui](https://www.linkedin.com/in/onesmuskabui/)
 
 ## About me
-Data Analyst with nearly 2 years experience in data analysis, data visualization, research design, and project management. Experienced in collecting and working with quantitative and qualitative data, transforming raw data into clear, actionable insights to inform decision-making. Proficient in Python, R, Excel, and SQL  with a detail-oriented approach to analysis, insight extraction and communication. On my free time, I enjoy <!-- [cycling](https://www.strava.com/athletes/121419863) and[learning German](https://www.duolingo.com/profile/onesmusKab1?via=share_profile_link)-->learning foreign languages.
+Data Analyst with nearly 18+ months experience in data analysis, data visualization, research design, and project management. Experienced in collecting and working with quantitative and qualitative data, transforming raw data into clear, actionable insights to inform decision-making. Proficient in Python, R, Excel, and SQL  with a detail-oriented approach to analysis, insight extraction and communication. On my free time, I enjoy <!-- [cycling](https://www.strava.com/athletes/121419863) and[learning German](https://www.duolingo.com/profile/onesmusKab1?via=share_profile_link)-->learning foreign languages.
 
 
 ### Work Experience
@@ -66,10 +66,11 @@ Developed and evaluated four machine learning models (Logistic Regression, Decis
 **Bachelor of Science (Hons) Applied Statistics with Computing**
 Moi University 2025
 
-**STATA Analytical Program**
+
+<!--**STATA Analytical Program**
 Moi University, Completed 2019 (Distinction)
 
-
+-->
 ## Certifications
 - STATA Analytical Program (Distinction)
 
