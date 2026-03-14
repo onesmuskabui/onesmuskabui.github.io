@@ -72,7 +72,7 @@ Moi University, Completed 2019 (Distinction)
 
 -->
 ## Certifications
-- STATA Analytical Program (Distinction)
+- STATA Analytical Program (Distinction) - Moi University 2019
 
 <!--## References
 Keziah Mwangi - kmwangi@ndima.ktdateas.com (Industrial Training Supervisor)
