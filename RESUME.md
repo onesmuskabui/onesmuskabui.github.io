@@ -49,11 +49,11 @@ Data Analyst with nearly 18+ months experience in data analysis, data visualizat
   
 ### Projects
 
-#### ***Concrete Strength Modelling***
+<!--#### ***Concrete Strength Modelling***
 
 Built regression models in R (UCI dataset) to predict concrete strength ($R^2 = 0.63$), identifying cement, curing age, and additives as key factors.
 
-[Github link](https://github.com/onesmuskabui/Concrete-Strength-Modelling)
+[Github link](https://github.com/onesmuskabui/Concrete-Strength-Modelling)-->
 
 #### ***Obesity Level Prediction***
 
